@@ -27,7 +27,6 @@ O biodiesel é um importante combustível utilizado no cenário da crescente uti
 - Acidos graxos: mistura de óleos provenientes da borra de óleo de soja e ácido oleico;
 - Biorreator de leito fixo: equipamento que abriga os materiais onde acontece a reação química. 
 
-
 <p align="center">
     <img src="./imagens/esquema.png" width="250">
 </p>
@@ -46,15 +45,33 @@ Na imagem acima, o esquema do bioreator:
 
 O experimento consiste nas etapas descritas a seguir.
 
--produzir lipases com o fundo tal utilizando o processo de fermentacao...
--comparacao de atividades de esterificacao...
--verificar efeito da razao molar e temperatura da reacao com diferentes materias graxas...
--processo otimizado de esterificacao p/ producao de esteres etilicos
+1) Produção de lipases pelo fungo Rhizopus microsporus por fermentação em estado sólido (FES): essa etapa consiste em "repicar" um pedaço do micélio do fungo R. microsporus em frascos erlenmeyers contendo Ágar batata-dextrose (BDA), produto comumente utilizado para o cultivo de microorganismos. Os frascos são então incubados sob temperatura de 30° durante 7 dias. Passado o periodo de incubação, os esporos do fungo são coletados e suspensos em solução para aplicação no bagaço de cana de açucar.
+<p align="center">
+    <img src="./imagens/fungo.png" width="250">
+</p>
 
-1)  
-2)  
-3)  
-4)  
+2) Fermentação em estado sólido: Com a solução onde os esporos são suspensos, é possível realizar a fermentação do bagaço de cana de açucar, sendo que este funciona como suporte para a enzima lipase que o fungo libera para o meio extracelular para sua digestão. Inicialmente, é adicionado ao bagaço, com apenas 10% de umidade uma solução umedecedora nutriente contendo uréia (4 g/L), lactose (5 g/L), K2HPO4 (5 g/L), MgSO4∙7H2O (1 g/L),  solução de oligoelementos (4 mL/L) e óleo de soja. Os frascos foram mantidos em estufa a 40 ºC por 18 h, seguindo de 24 sob temperatura de -18 °C e da liofilização até umidade de 10%.  
+<p align="center">
+    <img src="./imagens/fermentacao.png" width="250">
+</p>
+
+3) Atividade de esterificação das enzimas: Finalizada a fermentação em estado sólido, pode-se aplicar o bagaço fermantado diretamente em alguns ensaios de qualificação. O principal utilizado neste experimento foi o método de titulação PH Stat. O PH Stat é um equipamento que realiza a titulação de um meio líquido, sob temperatura controlada, a um PH definido. Para esse ajuste de PH, o equipamento libera aos poucos NaOH (hidroxido de sódio) ao meio ácido. No caso do experimento aqui realizado, a intenção era verificar qual dos meios de cultivo (frascos contendo sólido fermentado), possuiria maior converão de ácidos graxos em éster. Quanto menor a quantidade de base NaOH liberada no meio, maior é a conversão de ácidos graxos em éster, ou seja, maior a conversão da mistura de óleos usado em uma mistura de ésteres.
+<p align="center">
+    <img src="./imagens/pH-stat_Titration.jpg" width="250">
+</p>
+ref: https://food.au.dk/foodhay/instruments/proteomic-and-metabolomic-platform/icp-oes/ph-stat-titration 
+
+4) Aplicação da enzima + suporte em reações de esterificação: após definir qual dos meios de cultura teve melhor atividade de esterificação (maior conversão em éster), o mesmo foi submetido à diferentes condições reacionais de temperatura e razões molares de ácidos graxos/ácido oleico. Para o ensaio de razão molar, foi adicionado a 1,8 g de sólido fermentado 30 mmol de ácido graxo/ácido oleico e etanol na razão molar 10:1 (10 mol de etanol para 1 mol de ácido graxo). O meio foi submetido a agitação de 200 rpm por 48 h a 40 ºC. Os valores apresentados representam as médias das análises em triplicata ± o erro padrão da média. p > 0,05 para a conversão dos AGBS.
+
+
+<p align="center">
+    <img src="./imagens/variação da razão molar grafico.png" width="250">
+</p> 
+ 
+ Observa-se que os melhores resultados de conversão de ácido graxo e ácido oleico foram obtidos na razão molar 10:1. A partir disso, estudou-se também a influência da variação da temperatura o meio de reação. O gráfico a seguir demonstra a conversão em razão da temperatura para os ácidos graxos e ácido oleico.
+ <p align="center">
+    <img src="./imagens/variação de temperatura grafico.png" width="250">
+</p> 
 5)  
 6)  
 7) 
