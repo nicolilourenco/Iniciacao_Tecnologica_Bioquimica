@@ -18,25 +18,58 @@ A [SIEPE](http://www.siepe.ufpr.br/) é um evento anual promovido pela UPFR (Uni
 
 ### Objetivo
 
-O biodiesel é um importante combustível utilizado no cenário da crescente utilização de biocombustíveis como alternativas sustentáveis, menos poluentes e oriundas de fontes de energia renováveis. Tomando como contexto de estudo os processos atuais de produção industrial do biodiesel (transesterificação alcalina ou esterificação mediada por catalisadores), dois pontos de melhoria são observados: custo do processo e quantidade de subprodutos formados. Assim, o estudo realizado visa o desenvolvimento de um novo processo de fabricação de biodiesel baseado na utilização de resíduos (óleos usados e bagaço de cana de açúcar), cuja quantidade de subprodutos formados é menor em relação aos processos atuais, além de gerar um menor custo de produção proporcional.
+O biodiesel é um importante combustível utilizado no cenário da crescente utilização de biocombustíveis como alternativas sustentáveis, menos poluentes e oriundas de fontes de energia renováveis. Tomando como contexto de estudo os processos atuais de produção industrial do biodiesel (transesterificação alcalina ou esterificação mediada por catalisadores), dois pontos de melhoria são observados: custo do processo e quantidade de subprodutos formados. Assim, o estudo realizado visa o desenvolvimento de um novo processo de fabricação de biodiesel como alternativa aos processos atuais utilizando resíduos (óleos usados e bagaço de cana de açúcar) e enzimas lipases do fungo Rhizopus microsporus.
 
-## materiais utilizados (bagco cana, oleo ussado, fungo, lipases, etc.. )
+## Materiais e Ferramentas
 
-## experimentos utilizados (etapas )
+- Fungo Rhizopus microsporus: microorganismo responsável pela produção das enzimas lipases, agente catalisador da reação química que dá origem ao biodiesel; 
+- Bagaço de cana-de-açúcar: é o suporte para o fungo e suas enzimas,  
+- Acidos graxos: mistura de óleos provenientes da borra de óleo de soja e ácido oleico;
+- Biorreator de leito fixo: equipamento que abriga os materiais onde acontece a reação química. 
 
-## resultados
+
+<p align="center">
+    <img src="./imagens/esquema.png" width="250">
+</p>
+
+Na imagem acima, o esquema do bioreator: 
+1) reservatório contendo meio reacional; 
+2) meio reacional em recirculação; 
+3) bomba peristáltica; 
+4) coluna de vidro preenchida com sólido fermentado; 
+5) meio reacional em recirculação;
+6) amostragem; 
+7) circulação de água termostatizada.
+ 
+
+## Experimentos e Análises
+
+O experimento consiste nas etapas descritas a seguir.
+
+-produzir lipases com o fundo tal utilizando o processo de fermentacao...
+-comparacao de atividades de esterificacao...
+-verificar efeito da razao molar e temperatura da reacao com diferentes materias graxas...
+-processo otimizado de esterificacao p/ producao de esteres etilicos
+
+1)  
+2)  
+3)  
+4)  
+5)  
+6)  
+7) 
+
+## Resultados
+
+Foram realizados estudos da variação da razão molar (etanol: ácido graxo) e da temperatura para o aumento da conversão em éster nas reações de esterificação.
+
+Os melhores resultados foram obtidos para as reações com razão molar 10:1 (etanol: ácido graxo) a 40 ºC, com conversão de 98% para o ácido oleico e 86% para mistura de ácidos graxos da borra de soja após 48 h de reação. 
+A partir da melhor razão molar obtida, foram realizados experimentos a 35 ºC e a 40 ºC.
+
+ Com esses resultados, o processo se mostrou como uma alternativa viável de produção de biodiesel.
+
+ 
 
 ## Apresentação e equipe
 
-///////////////////////
-
-OK- estudante de quimica **
-OK- bolsista cnpq
-OK- fazia  iniciaçao tecnologica no laboratorio LTEB do departamento de quimica da ufpr
-OK- o que o laboratorio faz
-- projeto que participei: nome, descrição (o que o projeto fazia e por que fazia), tempo que participei, conquistas do projeto (apresentação no 6o SIEPE)**
-- Equipe do projeto
-
-
-Descrição:
-Produção e purificação de lipases obtidos a partir da fermentação do bagaço de cana de açúcar utilizando o fungo Rhizopus microsporus e sua utilização em biocatálise em solventes orgânicos. 
+O projeto foi apresentado na 6a edição da SIEPE e contou com a minha participação, Nicoli Lourenço, como aluna bolsista de inovação tecnologica, da professora orientadora dra. Nádia Krieger e da aluna doutoranda Vanderleia Botton. 
