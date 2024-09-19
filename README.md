@@ -65,12 +65,12 @@ ref: https://food.au.dk/foodhay/instruments/proteomic-and-metabolomic-platform/i
 
 
 <p align="center">
-    <img src="./imagens/razao_molar.png" width="250">
+    <img src="./imagens/razao_molar.png" width="400">
 </p> 
  
  Observa-se que os melhores resultados de conversão de ácido graxo e ácido oleico foram obtidos na razão molar 10:1. A partir disso, estudou-se também a influência da variação da temperatura o meio de reação. O gráfico a seguir demonstra a conversão em razão da temperatura para os ácidos graxos e ácido oleico, utilizando ainda a razão molar 10:1.
  <p align="center">
-    <img src="./imagens/temperatura.png" width="250">
+    <img src="./imagens/temperatura.png" width="400">
 </p> 
 A partir disso, nota-se que a temperatura ótima para a realização da conversão de ácidos graxos em ésteres utilizando a enzima lipase, é a de 40 °C.
 
@@ -80,7 +80,7 @@ A partir disso, nota-se que a temperatura ótima para a realização da convers�
 </p> 
 Conforme citado no item "Materiais e Ferramentas", o meio reativo recircula pelo sistema, saindo do reservatório, passando pelo sólido fermentado e retornando ao reservatório. O sistema ficou em recirculação pelo período de 96 horas, onde foram recolhidas alíquotas do meio reacional de 24 em 24 horas. 
 <p align="center">
-    <img src="./imagens/resultado_biorreator.png" width="250">
+    <img src="./imagens/resultado_biorreator.png" width="400">
 </p> 
 Conforme nota-se acima, a conversão ocorre gradativamente até 48, onde a reação atige seu máximo de conversão e se mantém constante para as temperaturas de 40 e 45°C. A partir disso também, nota-se que a enzima mostrou-se mais eficiente na faixa de 40-45 °C e em 50 °C sua atividade não foi tão boa, o que pode ser causa de um possível desnaturamento da enzima.
 
