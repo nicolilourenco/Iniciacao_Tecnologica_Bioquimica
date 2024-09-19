@@ -76,7 +76,7 @@ A partir disso, nota-se que a temperatura ótima para a realização da convers�
 
 5)  Aplicação do Sólido Fermentado no Biorreator de Leito Fixo: após testadas quais seriam as melhores condições para a reação utilizando o sólido fermentado, foram dimensionadas as quantidades de reagentes que seriam aplicados no biorreator, sendo elas: 83 g de etanol, 49,5 g de AGBS (razão molar etanol: AGBS 10:1), 12 g sólido fermentado (base seca), vazão de recirculação 5 mL min-1.
 <p align="center">
-    <img src="./imagens/esquema bancada.png" width="250">
+    <img src="./imagens/esquema bancada.png" width="350">
 </p> 
 Conforme citado no item "Materiais e Ferramentas", o meio reativo recircula pelo sistema, saindo do reservatório, passando pelo sólido fermentado e retornando ao reservatório. O sistema ficou em recirculação pelo período de 96 horas, onde foram recolhidas alíquotas do meio reacional de 24 em 24 horas. 
 <p align="center">
