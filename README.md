@@ -24,7 +24,7 @@ O biodiesel é um importante combustível utilizado no cenário da crescente uti
 
 - Fungo Rhizopus microsporus: microorganismo responsável pela produção das enzimas lipases, agente catalisador da reação química que dá origem ao biodiesel; 
 - Bagaço de cana-de-açúcar: é o suporte para o fungo e suas enzimas,  
-- Acidos graxos: mistura de óleos provenientes da borra de óleo de soja e ácido oleico;
+- Acidos graxos: mistura de óleos provenientes da borra de óleo de soja e ácido oleico, óleo puro (padrão), utilizado como parâmetro de comparação;
 - Biorreator de leito fixo: equipamento que abriga os materiais onde acontece a reação química. 
 
 <p align="center">
@@ -50,12 +50,12 @@ O experimento consiste nas etapas descritas a seguir.
     <img src="./imagens/fungo.png" width="250">
 </p>
 
-2) Fermentação em estado sólido: Com a solução onde os esporos são suspensos, é possível realizar a fermentação do bagaço de cana de açucar, sendo que este funciona como suporte para a enzima lipase que o fungo libera para o meio extracelular para sua digestão. Inicialmente, é adicionado ao bagaço, com apenas 10% de umidade uma solução umedecedora nutriente contendo uréia (4 g/L), lactose (5 g/L), K2HPO4 (5 g/L), MgSO4∙7H2O (1 g/L),  solução de oligoelementos (4 mL/L) e óleo de soja. Os frascos foram mantidos em estufa a 40 ºC por 18 h, seguindo de 24 sob temperatura de -18 °C e da liofilização até umidade de 10%.  
+2) Fermentação em estado sólido: Com a solução onde os esporos são suspensos, é possível realizar a fermentação do bagaço de cana de açucar, sendo que este funciona como suporte para a enzima lipase que o fungo libera para o meio extracelular para sua digestão. Inicialmente, é adicionado ao bagaço, com apenas 10% de umidade uma solução umedecedora nutriente contendo uréia (4 g/L), lactose (5 g/L), K2HPO4 (5 g/L), MgSO4∙7H2O (1 g/L),  solução de oligoelementos (4 mL/L) e óleo de soja. Os frascos foram mantidos em estufa a 40 ºC por 18 h, seguindo de 24 sob temperatura de -18 °C e da liofilização (método de secagem) até umidade de 10%.  
 <p align="center">
     <img src="./imagens/fermentacao.png" width="250">
 </p>
 
-3) Atividade de esterificação das enzimas: Finalizada a fermentação em estado sólido, pode-se aplicar o bagaço fermantado diretamente em alguns ensaios de qualificação. O principal utilizado neste experimento foi o método de titulação PH Stat. O PH Stat é um equipamento que realiza a titulação de um meio líquido, sob temperatura controlada, a um PH definido. Para esse ajuste de PH, o equipamento libera aos poucos NaOH (hidroxido de sódio) ao meio ácido. No caso do experimento aqui realizado, a intenção era verificar qual dos meios de cultivo (frascos contendo sólido fermentado), possuiria maior converão de ácidos graxos em éster. Quanto menor a quantidade de base NaOH liberada no meio, maior é a conversão de ácidos graxos em éster, ou seja, maior a conversão da mistura de óleos usado em uma mistura de ésteres.
+3) Atividade de esterificação das enzimas: Finalizada a fermentação em estado sólido, pode-se aplicar o bagaço fermantado diretamente em alguns ensaios de qualificação. O principal utilizado neste experimento foi o método de titulação pH Stat. O pH Stat é um equipamento que realiza a titulação de um meio líquido, sob temperatura controlada, a um pH definido. Para esse ajuste de pH, o equipamento libera aos poucos NaOH (hidroxido de sódio) ao meio ácido. No caso do experimento aqui realizado, a intenção era verificar qual dos meios de cultivo (frascos contendo sólido fermentado), possuiria maior converão de ácidos graxos em éster. Quanto menor a quantidade de base NaOH liberada no meio, maior é a conversão de ácidos graxos em éster, ou seja, maior a conversão da mistura de óleos usado em uma mistura de ésteres.
 <p align="center">
     <img src="./imagens/pH-stat_Titration.jpg" width="250">
 </p>
@@ -65,16 +65,25 @@ ref: https://food.au.dk/foodhay/instruments/proteomic-and-metabolomic-platform/i
 
 
 <p align="center">
-    <img src="./imagens/variação da razão molar grafico.png" width="250">
+    <img src="./imagens/razao_molar.png" width="250">
 </p> 
  
- Observa-se que os melhores resultados de conversão de ácido graxo e ácido oleico foram obtidos na razão molar 10:1. A partir disso, estudou-se também a influência da variação da temperatura o meio de reação. O gráfico a seguir demonstra a conversão em razão da temperatura para os ácidos graxos e ácido oleico.
+ Observa-se que os melhores resultados de conversão de ácido graxo e ácido oleico foram obtidos na razão molar 10:1. A partir disso, estudou-se também a influência da variação da temperatura o meio de reação. O gráfico a seguir demonstra a conversão em razão da temperatura para os ácidos graxos e ácido oleico, utilizando ainda a razão molar 10:1.
  <p align="center">
-    <img src="./imagens/variação de temperatura grafico.png" width="250">
+    <img src="./imagens/temperatura.png" width="250">
 </p> 
-5)  
-6)  
-7) 
+A partir disso, nota-se que a temperatura ótima para a realização da conversão de ácidos graxos em ésteres utilizando a enzima lipase, é a de 40 °C.
+
+5)  Aplicação do Sólido Fermentado no Biorreator de Leito Fixo: após testadas quais seriam as melhores condições para a reação utilizando o sólido fermentado, foram dimensionadas as quantidades de reagentes que seriam aplicados no biorreator, sendo elas: 83 g de etanol, 49,5 g de AGBS (razão molar etanol: AGBS 10:1), 12 g sólido fermentado (base seca), vazão de recirculação 5 mL min-1.
+<p align="center">
+    <img src="./imagens/esquema bancada.png" width="250">
+</p> 
+Conforme citado no item "Materiais e Ferramentas", o meio reativo recircula pelo sistema, saindo do reservatório, passando pelo sólido fermentado e retornando ao reservatório. O sistema ficou em recirculação pelo período de 96 horas, onde foram recolhidas alíquotas do meio reacional de 24 em 24 horas. 
+<p align="center">
+    <img src="./imagens/resultado_biorreator.png" width="250">
+</p> 
+Conforme nota-se acima, a conversão ocorre gradativamente até 48, onde a reação atige seu máximo de conversão e se mantém constante para as temperaturas de 40 e 45°C. A partir disso também, nota-se que a enzima mostrou-se mais eficiente na faixa de 40-45 °C e em 50 °C sua atividade não foi tão boa, o que pode ser causa de um possível desnaturamento da enzima.
+
 
 ## Resultados
 
